@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang=\"es\">
+<head>
+    <meta charset=\"UTF-8\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+    <title>NOU TES TRISTE - Psicólogo Madridista</title>
+    <style>
+        body {font-family: Arial, sans-serif; text-align: center; background-color: #f2f4f8;}
+        .container {max-width: 700px; margin: auto; padding: 20px;}
+        h1 {color: #00529F;}
+        p {color: #333; font-size: 16px;}
+        button {
+            background-color: #00529F;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 15px;
+        }
+        button:hover {background-color: #003973;}
+        img {width: 200px; margin-bottom: 20px;}
+        ol {text-align: left;}
+    </style>
+</head>
+<body>
+    <div class=\"container\">
+        <img src=\"logo.png\" alt=\"NOU TES TRISTE Esports Logo\">
+        <h1>NOU TES TRISTE</h1>
+        <h2>Psicólogo Madridista para Amigos de Clubes Pro</h2>
+        <p>¿El Real Madrid ha jugado pésimo y encima ha perdido contra el Barça? Respira, no pasa nada. Este espacio es seguro y especialmente creado para aliviar tu tristeza futbolística.</p>
+        <p>Sigue estos pasos para superar la derrota:</p>
+        <ol>
+            <li>Respira profundamente. Asumir la realidad es el primer paso.</li>
+            <li>Recuerda tus 14 Champions League. ¿El Barça? Bueno, dejémoslo ahí...</li>
+            <li>Mira al menos 3 veces seguidas videos históricos, preferentemente de Sergio Ramos en el minuto 93.</li>
+            <li>No discutas con culés ni entres en redes sociales por las próximas 48 horas. Tu salud mental lo agradecerá.</li>
+            <li>Haz una partida de Clubes Pro para distraerte y evita sacar el tema del clásico (si puedes).</li>
+            <li>Recuerda siempre: cada derrota es solo un paso previo hacia la próxima victoria épica.</li>
+            <li>Si nada funciona, siempre queda quejarse del árbitro.</li>
+        </ol>
+        <button onclick=\"alert('¡Ánimo, recuerda que esto es fútbol! Mañana será otro día. ¡Hala Madrid! ⚽️🏆')\">¿Te sientes mejor?</button>
+    </div>
+</body>
+</html>
